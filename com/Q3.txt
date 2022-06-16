@@ -1,0 +1,7 @@
+abstract class contains abstract methods and normal methods.
+abstract methods have no bodies.
+abstractclass can have constructors and sttic methods.
+
+interface is a blueprint of jav class declared by keyword interface;
+total abstraction can be achived by interface.
+multiple inheritance can be achieved by interface
